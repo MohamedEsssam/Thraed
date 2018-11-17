@@ -1,0 +1,15 @@
+sorted array
+-1 0 3 4 7 8 15 20 33 100 
+Time taken:0.001350sec
+output array method 2
+-1 10 -15 -28 
+-3 -10 15 -36 
+5 -2 -9 -20 
+element_Multiplication_Counter=15 times
+Time taken:0.000407sec
+output array method 1
+-1 10 -15 -28 
+-3 -10 15 -36 
+5 -2 -9 -20 
+element_Multipication_Counter=3 times
+Time taken:0.000224sec
