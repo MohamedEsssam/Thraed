@@ -7,6 +7,7 @@
 #include <stdlib.h>
 #include <pthread.h>
 
+//array size
 int  N;
 
 //2D Arrays
