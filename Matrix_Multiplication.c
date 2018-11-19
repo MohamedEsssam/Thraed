@@ -7,10 +7,10 @@
 #include <pthread.h>
 
 //columns and rows input
-int RA, CA, RB, CB, N;
+int RA, CA, RB, CB;
 
 //2D Arrays
-int **A, **B, **C, *M;
+int **A, **B, **C;
 
 //output file
 FILE *output;
